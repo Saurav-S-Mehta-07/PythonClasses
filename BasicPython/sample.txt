@@ -1,0 +1,2 @@
+Text using write w mode 
+ this is 2nd line
